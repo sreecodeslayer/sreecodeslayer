@@ -1,4 +1,3 @@
-<p align="center"> <img src="./minion-cover.png" alt="minion-and-banaaaanaaaaa"/></p>
 <h1 align="center">Hi 👋, I'm Sreenadh TC</h1>
 <h3
  align="center">A polyglot in Elixir/Ruby/Python/Javascript who loves

@@ -15,7 +15,7 @@
 - 📫 How to reach me **kesav.tc8@gmail.com**
 
 <p
- align="left"><img 
+ align="center"><img 
 src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg"
  alt="vuejs" width="20" height="20"/> <img 
 src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
@@ -39,8 +39,12 @@ src="https://konpa.github.io/devicon/devicon.git/icons/redis/redis-original-word
 src="https://konpa.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg"
  alt="ruby" width="20" height="20"/> <img 
 src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg"
- alt="python" width="20" height="20"/></p><p 
-align="center"> <img 
+ alt="python" width="20" height="20"/> <img
+src="https://konpa.github.io/devicon/devicon.git/icons/django/django-plain.svg" 
+ alt="django" width="20" height="20"/> <img 
+src="https://konpa.github.io/devicon/devicon.git/icons/heroku/heroku-original-wordmark.svg"
+ alt="heroku" width="20" height="20"/></p>
+ <p align="center"> <img 
 src="https://github-readme-stats.vercel.app/api?username=sreecodeslayer&show_icons=true"
  alt="sreecodeslayer" /> </p>
 

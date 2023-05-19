@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [@sreecodeslayer](@sreecodeslayer)
 
-- 📝 I regularly write articles on [https://crypt.codemancers.com](https://crypt.codemancers.com)
-
 - 💬 Ask me about **phoenix, elixir, kubernetes, python, flask**
 
 - 📫 How to reach me **kesav.tc8@gmail.com**
